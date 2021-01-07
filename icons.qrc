@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/bitCoin.png</file>
+        <file>icons/Calculator.png</file>
+        <file>icons/ledger.png</file>
+    </qresource>
+</RCC>
